@@ -1,0 +1,25 @@
+{
+  "name": "@blockcore/tsconfig",
+  "version": "0.0.1",
+  "description": "Shared TypeScript config for Blockcore projects",
+  "main": "tsconfig.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+		"tsconfig.json"
+	],
+  "engines": {
+		"node": ">=14"
+	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/block-core/tsconfig.git"
+  },
+  "author": "Blockcore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/block-core/tsconfig/issues"
+  },
+  "homepage": "https://github.com/block-core/tsconfig#readme"
+}
